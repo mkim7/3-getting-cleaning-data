@@ -1,4 +1,4 @@
-3-getting-cleaning-data
+README -- Coursera Project
 =======================
 This repo was made for the course project for the Coursera course "Getting and Cleaning data."
 
